@@ -1,6 +1,8 @@
 # Exercise-01c-Twine-Story
 Exercise for MSCH-C220, 27 January 2020
 
+A demonstration of this exercise is avaiable at [https://youtu.be/kV33PwPJDmo](https://youtu.be/kV33PwPJDmo).
+
 This exercise is should be an important step in creating a minimum-requirement solution for Project 01. You task is to create an original story in Twine. Next week, we will export it as a JSON file and make sure it works with our Python game engine.
 
 As usual, the first step is to Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01c-Twine-Story
